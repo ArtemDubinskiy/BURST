@@ -1,4 +1,7 @@
 # 🔥  B.U.R.S.T.  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=1000&color=EB13F7&width=500&height=60&lines=B.U.R.S.T.)](https://git.io/typing-svg)
+
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20.NET-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
